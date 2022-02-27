@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and resolution of Robert Earle of VVarvvick, Lord Admirall for the King, Parliament of England, and all the officers, and sea-men a boord, his Navie touching the personall treaty: and their resolution to joyne with the Prince, in the case the treaty shall be either retarded, obstructed, or opposed by any party, as well the Army, as all others: and their vowes, and ingagement to stand for the three states, King, Lords, and Commons; against all opposers, and gain-sayers whatsoever.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82060</idno>
+            <idno type="STC">Wing D552A</idno>
+            <idno type="STC">Thomason E469_9</idno>
+            <idno type="STC">ESTC R204168</idno>
+            <idno type="EEBO-CITATION">99863851</idno>
+            <idno type="PROQUEST">99863851</idno>
+            <idno type="VID">162364</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162364)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E469[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and resolution of Robert Earle of VVarvvick, Lord Admirall for the King, Parliament of England, and all the officers, and sea-men a boord, his Navie touching the personall treaty: and their resolution to joyne with the Prince, in the case the treaty shall be either retarded, obstructed, or opposed by any party, as well the Army, as all others: and their vowes, and ingagement to stand for the three states, King, Lords, and Commons; against all opposers, and gain-sayers whatsoever.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 4 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by the Earl of Warwick.</note>
+                  <note>P. 6 misnumbered 4.</note>
+                  <note>Annotation on Thomason copy: "Octob. 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>England and Wales --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162364:1" rendition="simple:additions"/>
+            <p>THE DECLARATION And Reſolution of ROBERT <hi>EARLE</hi> of VVARVVICK, Lord <hi>Admirall</hi> for the <hi>King, Parliament</hi> of England, And all the Officers, and Sea-men A Boord, His NAVIE touching the Perſonall <hi>TREATY:</hi>
+            </p>
+            <p>And their Reſolution to Joyne with the <hi>Prince,</hi> in Caſe the <hi>Treaty</hi> ſhall be either Retarded, Obſtructed, or Oppoſed by any Party, as well the <hi>Army,</hi> as all others: and their Vowes, and Ingagement to ſtand for the three States, <hi>King, Lords,</hi> and <hi>Commons;</hi> Againſt all Oppoſers, and Gain-ſayers Whatſoever.</p>
+            <p>LONDON, Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:162364:2"/>
+            <pb n="1" facs="tcp:162364:2"/>
+            <head>The Declaration and Reſolution of <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> Earle of <hi>Warwick,</hi> &amp;c.</head>
+            <p>IT is not unknown unto all the whole Kingdom how faithfully and zealouſly, we have behaved our ſelves in the ſervice of King and Parliament, and we leave all the world to judge how readily we ventured our lives, and laid out our eſtates, towards this work of Reformation, to the ends of the Covenant, and our firſt in<g ref="char:EOLhyphen"/>gagement, and we beleived that the bringing home of the King to his Parliament, was the only means, which might perfect the work in hand, and we were verily perſwaded, that our preſent and preſſing troubles, could no wayes have a period, but by a free convention betwixt King, and Subjects in Parliament, conceiving that to be the means to remove all miſtakes and miſ-underſtanding, betwixt King and people, we ſhall not ſtand to rehearſe all the Cove<g ref="char:EOLhyphen"/>nant, Vowes, and proteſtations put upon us by the Parlia<g ref="char:EOLhyphen"/>ment for the maintenance of the proteſtant Religion, the Kings honour, Perſon, and Eſtate, the priviledges of Par<g ref="char:EOLhyphen"/>liament, and the eſtabliſhed known Lawes of the Land, for which we firſt ingaged both lives and fortunes, againſt thoſe we ſuppoſed were the Common Enemies. But now ſind<g ref="char:EOLhyphen"/>ing by wofull experience, that we are likely to be worſe in<g ref="char:EOLhyphen"/>ſlaved by a company, who behave themſelves like the Tur<g ref="char:EOLhyphen"/>kiſh Janizary; in impoſing taxes on our eſtates, and forcing our perſon out to fight againſt we know not who, for woe know not what, to ſatisfie the bondles luſts of a company
+<pb n="2" facs="tcp:162364:3"/>of factious, ſeditious and covetous perſons, who have the influence and greateſt ſtroak in the houſes and Army, wee know them very well, but ſhall forbeare to particularize them, til another oportunity, but it is not neceſſary to inſert their names, by reaſon they are too well knowne to this Kingdome, the totall ruine and downfall of all religion, go<g ref="char:EOLhyphen"/>vernment, and diſcipline, not only in this, but in the other two Kingdomes. And this we ſhould not offer, but upon good grounds, will prove what we ſay and declare; to be as true as their actions are unjuſt and dangerous, and in<g ref="char:EOLhyphen"/>deed the wickedneſſe of theſe men, we did not of a long time (and till now of late) deſerne the continuall masking themſelves under the names of Reformers, and would for<g ref="char:EOLhyphen"/>ſooth be called the honeſt and faithfull party, none more forward to ſpeak good words to the people, and make great promiſes, where and to whomſoever they came, of inlarge<g ref="char:EOLhyphen"/>ment from ſlavery and preſſures, then they, when indeed (as is apparent) they meant nothing more then to deſtroy, and ruine them, Thus have they kept their vizards on for theſe many years to the blinding &amp; deluding of many poor ſoules in this Kingdome, who being thus miſlead by their ſpecious pretents, and dauncing after their pipes, to the loſſe of both lives and eſtates under theſe men, by their falſe ſuggeſtions, inſomuch that theſe three Kingdomes have bled and groaned this many years to the deſperat hazard of their utter diſſolution and loſs.</p>
+            <p>And now theſe men appearing in their own colours, and letting the world be ſpectators of their inſolencyes, and im<g ref="char:EOLhyphen"/>perious carriages to the great terror and amazement of all modeſt and peaceable people.</p>
+            <pb n="3" facs="tcp:162364:3"/>
+            <p>And truly had they not appeared thus audacious and bold, without limits or bonds as hye as the diſtruction of both King, Lords and Gen<g ref="char:EOLhyphen"/>trie, and that they pretend the houſe of Commons to be the only ſu<g ref="char:EOLhyphen"/>pream power, and that houſe they will not take notice on, unles it be moulded of a party of their owne chuſing and faction.</p>
+            <p>We ſay that was one main cauſe of our now declaring, and ingaging, And truly our affection were ſo great to that Army and Party both in the houſe and City, that we would have willingly layd downe our lives to juſtifie them, and who ſoever ſpoke againſt them, wee either thought them Malignants, or men voyd of grace, and charity, but now their inſolencies [and our burden] force us to ſpeake that which here<g ref="char:EOLhyphen"/>tofore we ſhould have bluſht to think.</p>
+            <p>And now we have great cauſe to bleſſe God for his goodneſſe, in ma<g ref="char:EOLhyphen"/>king us ſuch clear diſcerners of their jugling and Machavonills demea<g ref="char:EOLhyphen"/>nors, and do look upon it as the greateſt mercy that we are undeceived, in that we have ſome hopes left us to ſecure our ſelves &amp; help our poor diſtreſſed fellow ſubjects from under the ejection ſlavery, which theſe men have brought us to wade to the knees in already, we cannot but beleive, but that this faction, which doth ſo predominate both in the houſe and field, are of a Jeſuiticall ſpirit, knowing very well that that Army abounds with Preiſts and Jeſuits, under whoſe Councells wee cannot think our ſelves in ſafety, or this Kingdome, ſince they are the only men, that carryes on and hath the buſineſſe, and hath the tran<g ref="char:EOLhyphen"/>ſaction of moſt things done both in the houſe and Army, theſe things appearing plain to the underſtanding of us, we conceived we could not proſper, nor expect a bleſing from heaven ſo long as we remain ſilent af<g ref="char:EOLhyphen"/>ter it had pleaſed our maker to make us knowers off, &amp; ſince it is a mat<g ref="char:EOLhyphen"/>ter of ſo great concernment as Religion, law and liberty; we doubt not but we ſhall have aſsiſtence from Heaven above, and al honeſt and God<g ref="char:EOLhyphen"/>ly men who love the happineſſe flouriſhing of 3 (now dying Kingdoms) which muſt inevitably come to ruine, if we ſuffer theſe cruell Egypti<g ref="char:EOLhyphen"/>an Taskmaſters thus to rule over us, which ſlavery we are reſolved to quit our ſelves from, and bring our ſelves from under; and we doubt not but heaven will ſmile upon us as well as it did when we were abuſed by an exorbitant power gotten from the King by a party who loved him not.</p>
+            <pb n="4" facs="tcp:162364:4"/>
+            <p>And now we ſhall declare who we will not have to bare rule a<g ref="char:EOLhyphen"/>mongſt us.</p>
+            <p n="1">1 We declare againſt that party who denyed to obſerve the Parlia<g ref="char:EOLhyphen"/>ment Orders at <hi>New-market</hi> and ingaged themſelves contrary to the Orders, Votes, and Reſolution of both houſes, to ſtand in Armes, till they were ſatisfied in unjuſt and treaſonable demands.</p>
+            <p n="2">2. We Declare againſt thoſe who violently carried his Majeſty away from <hi>Holmby,</hi> contrary to the Order, Votes, and Ordinances of both houſes of Parliament, from houſe to houſe whither they pleaſed on pur<g ref="char:EOLhyphen"/>poſe to force him to own them in their treaſonable undertakings.</p>
+            <p n="3">3. We declare againſt that party which deſerted the houſe and ran to the Army, and brought them into the City of <hi>London,</hi> and joyned with them for the expelling and driving away all the honeſt Godly pea<g ref="char:EOLhyphen"/>ceable members of the houſes and City.</p>
+            <p n="4">4. We declare againſt thoſe who plotted, contrived and effected his Majeſties impriſonment, and the party ſet on in the time of his Maje<g ref="char:EOLhyphen"/>ſties impriſonment, to poyſon or take away his ſacred life.</p>
+            <p n="5">5. We declare againſt all thoſe which have broken the peace and en<g ref="char:EOLhyphen"/>gagement betwixt us, and our brethren of <hi>Scotland.</hi>
+            </p>
+            <p n="6">6. We declare againſt all Browniſts, Anabaptiſts, Seekers, Indepen<g ref="char:EOLhyphen"/>dents, Antitremptarion, and all blaſphemers.</p>
+            <p n="7">7. We declare againſt all Taxes, Exciſe, Contribution. Sequeſtrati<g ref="char:EOLhyphen"/>ons and Committees.</p>
+            <p>And now to let the world know that we deſire the benefit and pro<g ref="char:EOLhyphen"/>ſperity of theſe three Kingdomes, we ſhall declare and ſhew what wee wiſh and deſire</p>
+            <p n="1">1. That Keligion may be eſtabliſhed according to the rule of Gods word, and as near to the Covenant as is poſſible, admitting the example of beſt reformed Churches, and that Diſcipline may be ſpeedily ſet up, and put in execution to the bridling of licentious liberty, and the de<g ref="char:EOLhyphen"/>ſtroying and routing out of hereſie and Schiſme,</p>
+            <p n="2">2. That this perſonall Treaty may be haſtened and cheriſhed with al the honeſt oportunities that may tend to the reſtoring of the King to his juſt rights, and that his Queen may with his children come home in ſafety and honour, and live with his Majeſty as all other Queens have done in former times.</p>
+            <pb n="5" facs="tcp:162364:4"/>
+            <p n="3">3 That the Freedomes of Parliament and priviledges may be knowne and declared, to the end we may not be brought to a contempt of their Authority through ignorance, and that this preſent Parliament would be pleaſed to ſet a time for their ending, that ſo the ſubject may be eaſed of many taxes which now lyes upon them through and by their means.</p>
+            <p n="4">4 That all Armies may be disbanded und payd off out of Forreſt-lands and courſe taken that all idle perſons who have bin Souldiers may be ſet at work or ſent beyond the Seas.</p>
+            <p n="5">5 That all Garriſon may be ſlight, demoliſhed and diſmantled except ſuch as are Sea port Townes, and inlets to a foraign enemy.</p>
+            <p n="6">6 That all Widdowes and Fatherleſſe children whoſe huſbands and fathers have bin ſlain, in theſe wars may be prouided for in ſome com<g ref="char:EOLhyphen"/>petent meaſure to keep them from beggery and ſtarving.</p>
+            <p n="7">7 That a conſiderable Army may be raiſed for <hi>Ireland,</hi> of ſuch ho<g ref="char:EOLhyphen"/>neſt and ſober principled men, as will obſerve the command of the au<g ref="char:EOLhyphen"/>thority that levyes them and payes them, that they may disband when it ſhall be judged by that power fit.</p>
+            <p n="8">8. That there may a firme act of Parliament be made and concluded, that the Kingdome may be governed according to the knowne lawes of the Land, by King, Lords and Commons, and that an oath may be taken throughout the Kingdome by all perſons to acknowledg the ſame go<g ref="char:EOLhyphen"/>vernment, and that it may be death or baniſhment for any to refuſe the ſame.</p>
+            <p n="9">9, That a conſiderable company of honeſt moderat men may be ſent into Scotland to take up the difference betwixt us and our bretheren, that ſo we may prevent the effuſion of any more Chriſtian blood, and that we may continue our late ingagement with them (as it is juſt) in love and charity.</p>
+            <p n="10">10. and Laſtly, We deſire that all ſuch perſons who ſhall any way re<g ref="char:EOLhyphen"/>tard, obſtruct, or diſcountenance theſe things may be declared againſt as Traytors and Rebells, to the King, Parliament and Kingdome.</p>
+            <p>Theſe things we conceive to be the only means, under God, to make theſe 3 Kingdomes happy, and we ſhould not have declared thus farr, but that we ſee a many of perſons who endeavour to interpoſe betwixt us and our peace, by petitioning againſt a Perſonall Treaty, and that
+<pb n="4" facs="tcp:162364:5"/>their petitions and expreſſions, words and actions tends to levelling and ruine of both King and Lords and are ſo bold as to ſay the repream power reſts in the houſe of commons, to which men, we will be ſo bold as anſwer, they know not what they aske, therefore forgive them fa<g ref="char:EOLhyphen"/>ther, for if the Commons of England be the ſupream power, then he that can make the beſt friends ſhall have what he deſires, though ſit be to the ruine of (a whole) or many familyes, We are already ſatisfied, that it is as dangerous a thing to be governed by Votes, as it is to be governed by armyes, when eſpecially in ſuch a time as when ſo many men, ſo many minds.</p>
+            <p>And now we have given the world to underſtand what we deſire, &amp; are aſſured that what we wiſh and deſire is well pleaſing both to God and all moderate minded men, and if theſe things ſhall be oppoſed, we ſhall indeavour to ſtrengthen our ſelves both by Sea and land, and joyne with his highneſſe the Prince of <hi>Wales,</hi> and the fleet under him, which we doubt not but will bring a happy peace to theſe three Kingdomes, and ruine and ſhame to their and our Enemies.</p>
+         </div>
+         <div type="license">
+            <p>
+               <hi>Printed and Publiſhed by the Command of</hi> Robert <hi>Earl of</hi> Warwick, <hi>and all the Commanders and Common Soldiers under him, the Navy raiſed for defence of</hi> King <hi>and</hi> Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
